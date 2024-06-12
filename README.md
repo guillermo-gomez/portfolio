@@ -157,6 +157,6 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
 ## Contact
 
 - **Email:** [guillermo-gomez00@live.com](mailto:guillermo-gomez00@live.com)
-- **LinkedIn:** [cuauhtemo gomez](https://www.linkedin.com/in/cuauhtemocgomez)
+- **LinkedIn:** [Cuauhtemoc Gomez](https://www.linkedin.com/in/cuauhtemocgomez)
 - **GitHub:** [github-Guillermo-Gomez]((https://github.com/guillermo-gomez/))
 - **Phone:** +1 210-891-1233 | +52 33-1129-0760
