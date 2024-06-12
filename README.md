@@ -6,17 +6,15 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
 
 ## Professional Experience
 
-### Enterprise and Data Architect
+### Enterprise Data Architect Sr. | Supply Chain Architect Sr. | MLOps Architect Sr.
 
 - **Tekshapers, Inc formerly Warrior Tech Solutions ** (Oct 2011 - Today)
   - Roles: Enterprise Architect Director, Azure Data Architect Sr., Supply Chain Architect Sr, MLOps Architect Sr.
   - Key Projects: Warehouse optimization with AGV, PTL, PTS, and computer vision in ERP systems
-   
-    - 
-  - **Technologies Used**
-  - **Machine Learning**: Implemented computer vision algorithms for real-time inventory tracking and anomaly detection.
-  - **Optimization Tools**: Utilized CPLEX and Google OR-Tools for optimizing routing and scheduling tasks.
-  - **Programming Languages**: Python, C++, MATLAB.
+    - **Technologies Used**
+    - **Machine Learning**: Implemented computer vision algorithms for real-time inventory tracking and anomaly detection.
+    - **Optimization Tools**: Utilized CPLEX and Google OR-Tools for optimizing routing and scheduling tasks.
+    - **Programming Languages**: Python, C++, MATLAB.
 
 
 - **Sali Consultores | Corporativo Palermo (Holding)** (May 2011 - Sept 2021)
@@ -78,6 +76,36 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
 - **Cloud-based Health Monitoring**
   - Developed health monitoring solutions using Azure IoT Hub and computer vision systems for patient tracking.
   - Technologies: Python, OpenCV, Azure ML.
+    
+### Demand Analysis and Scenario Planning
+
+- **Demand Forecasting**
+  - Developed robust demand forecasting models using ARIMA, SARIMA, and LSTM networks to enhance inventory management and reduce stockouts.
+  - **Technologies Used**: Python (Pandas, Scikit-learn), R, Azure ML.
+
+- **Scenario Planning with AnyLogistics**
+  - Created various supply chain scenarios using AnyLogistics to analyze the impact of different demand and supply variables.
+  - **Technologies Used**: AnyLogistics, Python, Azure ML.
+ 
+### MLOps and Advanced Analytics
+
+- **MLOps Implementation**
+  - Implemented end-to-end MLOps pipelines on Azure, automating the deployment, monitoring, and management of machine learning models.
+  - **Technologies Used**: Azure ML, Azure DevOps, Docker, Kubernetes.
+
+- **Advanced Analytics and Reporting**
+  - Conducted comprehensive data analysis and reporting using Power BI, enhancing decision-making processes across various business domains.
+  - **Technologies Used**: Power BI, SQL Server, SSIS, SSRS.
+
+### Optimization Projects
+
+- **Supply Chain Network Optimization**
+  - Leveraged CPLEX Optimization Studio and Gurobi to optimize global supply chain networks, minimizing costs while maintaining high service levels.
+  - **Technologies Used**: Python, CPLEX Optimization Studio, Gurobi.
+
+- **Logistics Route Optimization**
+  - Applied advanced optimization algorithms, including genetic algorithms and simulated annealing, to optimize logistics routes, reducing transportation costs and delivery times.
+  - **Technologies Used**: Python, Google OR-Tools.
 
 ## Technical Skills
 
