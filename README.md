@@ -2,11 +2,22 @@
 
 ## Perfil Profesional
 
-Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. | Lean Champion COnsultant specialized in Supply Chain with over 12 years of experience in enterprise architecture and 9 years in data architecture. I have worked in diverse industrial environments, applying my knowledge in cloud computing, smart health, and smart manufacturing to optimize processes and improve strategic decision-making.
+Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. | Lean Champion Consultant specialized in Supply Chain with over 12 years of experience in enterprise architecture and 9 years in data architecture. I have worked in diverse industrial environments, applying my knowledge in cloud computing, smart health, and smart manufacturing to optimize processes and improve strategic decision-making.
 
 ## Professional Experience
 
 ### Enterprise and Data Architect
+
+- **Tekshapers, Inc formerly Warrior Tech Solutions ** (Oct 2011 - Today)
+  - Roles: Enterprise Architect Director, Azure Data Architect Sr., Supply Chain Architect Sr, MLOps Architect Sr.
+  - Key Projects: Warehouse optimization with AGV, PTL, PTS, and computer vision in ERP systems
+   
+    - 
+  - **Technologies Used**
+  - **Machine Learning**: Implemented computer vision algorithms for real-time inventory tracking and anomaly detection.
+  - **Optimization Tools**: Utilized CPLEX and Google OR-Tools for optimizing routing and scheduling tasks.
+  - **Programming Languages**: Python, C++, MATLAB.
+
 
 - **Sali Consultores | Corporativo Palermo (Holding)** (May 2011 - Sept 2021)
   - Roles: Enterprise Architect Director, Azure Data Architect, Supply Chain Architect, MLOps Architect
