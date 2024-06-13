@@ -18,7 +18,7 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
       
   - Key Projects: Financial Services
     - **Technologies Used**
-    - **Machine Learning**: Machine Learning algorithms such as Random Forest, Logistic Regression, or Gradient Boosting Machines (GBM).
+    - **Machine Learning: Machine Learning algorithms such as Random Forest, Logistic Regression, or Gradient Boosting Machines (GBM).
     - **Risk Analysis: Statistical analysis and modeling, Monte Carlo simulations for risk assessment.
     - **Purchase/Churn Prediction: Machine Learning algorithms like Logistic Regression, Decision Trees, or Neural Networks, Customer segmentation techniques.
     - **Marketing Campaign Personalization: Customer segmentation based on demographics, behavior, or transaction history, A/B testing for campaign optimization.
@@ -30,7 +30,7 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
     - **Technologies Used**
     - ** Predictive Maintenance: IoT (Internet of Things) sensors for real-time monitoring of equipment.
     - ** MS Dynamic NAV Demand Forecasting: Time series forecasting models such as ARIMA, Exponential Smoothing, or Prophet.
-    - ** Warehouse Optimization**: Developed layout and picking route optimization with  Manhattan distance or Hamiltonian Path integrated with ERP MS Dynamic NAV, Improving throughput 30% in operational efficiency.
+    - ** Warehouse Optimization: Developed layout and picking route optimization with  Manhattan distance or Hamiltonian Path integrated with ERP MS Dynamic NAV, Improving throughput 30% in operational efficiency.
     - ** Stock Optimization: Demand forecasting models to predict future demand, Just-in-Time (JIT) inventory management principles, upply chain visibility tools for tracking inventory in real-time.
     - ** Defective Product Detection: Computer vision technologies for visual inspection of products, Quality control software for analyzing product defects, Integration with manufacturing systems for real-time defect detection.
 
@@ -38,15 +38,26 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
 - **AITESYS (Artificial Intelligence Technologies System)** (Jun 2011 - Nov 2021)
   - Roles: Enterprise Architect Director (Freelance – Contract)
   - Clients: Sinec Techn, KADesign, Techno plating
-  - Key Projects: Implementation of machine learning and smart manufacturing solutions.
-    - ** Machine Learning for Manufacturing**: Implemented predictive maintenance models reducing downtime by 25%.
+  - Key Projects: Implementation of machine learning and smart manufacturing solutions | Retail Fast Fashion.
+    - ** Machine Learning for Manufacturing: Implemented predictive maintenance models reducing downtime by 25%.
+    - ** Recommendation System: Collaborative filtering algorithms such as user-based or item-based recommendation, Content-based filtering algorithms that recommend items based on user preferences.
+    - ** Up-selling and Cross-selling: Machine Learning algorithms for analyzing customer purchase patterns, Customer segmentation techniques for targeted marketing.
+    - ** Inventory Planning: Demand forecasting models for predicting future demand, Inventory optimization software for determining optimal stock levels, Real-time data analytics for monitoring inventory levels and trends.
+    - ** Market Segmentation: Clustering algorithms such as K-means or hierarchical clustering for grouping customers based on similarities, Customer relationship management (CRM) systems for managing customer interactions and segmentation.
 
 
 - **Miebach Consulting of México** (Oct 2018 - Jun 2019)
   - Role: Enterprise Architect Director | Project & Consultant Expert MHE
   - Client: PUMA corporate Sportswear
-  - Key Projects: Supply chain optimization consulting.
+  - Key Projects: Supply chain optimization consulting, Analyzing and optimizing PUMA's supply chain to improve efficiency, reduce costs, and enhance customer satisfaction..
      - ** Supply Chain Optimization**: Conducted advanced analytics and machine learning models to streamline supply chain processes, saving 15% in logistics costs.
+     - ** Outcomes: Simuilations with Pro-model differente scenaries for increase Fillrate, OTD, Throughput, Less traveling
+     - ** Enchance Supply chain visibility: enabling better decision-making and risk management with Values Stream Mapping (As-Is) Vs (To-Be) ans creating new Scenaries with (What-If)
+     - ** Increase Deliveries: Synchronization Mfg. vs market increase demand
+     - ** Demand Forecasting and Planning: Ingestion historical data and market trends to predict future demand more accurately, enabling better planning and synchronization of manufacturing and delivery schedules.
+     - ** Transportation Optimization: Optimize transportation routes and schedules with TMS to ensure timely delivery of products in all domestic market, reducing lead times and improving customer satisfaction.
+
+
 
 
 ## Key Projects
