@@ -33,6 +33,7 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
     - ** Warehouse Optimization: Developed layout and picking route optimization with  Manhattan distance or Hamiltonian Path integrated with ERP MS Dynamic NAV, Improving throughput 30% in operational efficiency.
     - ** Stock Optimization: Demand forecasting models to predict future demand, Just-in-Time (JIT) inventory management principles, upply chain visibility tools for tracking inventory in real-time.
     - ** Defective Product Detection: Computer vision technologies for visual inspection of products, Quality control software for analyzing product defects, Integration with manufacturing systems for real-time defect detection.
+  - Libraries used: TensorFlow, scikit-learn, ARIMA, Scikit-learn (Random Forest, Logistic Regression, GBM), Monte Carlo simulations.
 
 
 - **AITESYS (Artificial Intelligence Technologies System)** (Jun 2011 - Nov 2021)
@@ -44,11 +45,11 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
     - ** Up-selling and Cross-selling: Machine Learning algorithms for analyzing customer purchase patterns, Customer segmentation techniques for targeted marketing.
     - ** Inventory Planning: Demand forecasting models for predicting future demand, Inventory optimization software for determining optimal stock levels, Real-time data analytics for monitoring inventory levels and trends.
     - ** Market Segmentation: Clustering algorithms such as K-means or hierarchical clustering for grouping customers based on similarities, Customer relationship management (CRM) systems for managing customer interactions and segmentation.
-
-
+  - Libraries used: TensorFlow, scikit-learn, ARIMA, Prophet, K-means, TensorFlow (CNNs)
+    
 - **Miebach Consulting of México** (Oct 2018 - Jun 2019)
   - Role: Enterprise Architect Director | Project & Consultant Expert MHE
-  - Client: PUMA corporate Sportswear
+  - Client: PUMA corporate Sportwear
   - Key Projects: Supply chain optimization consulting, Analyzing and optimizing PUMA's supply chain to improve efficiency, reduce costs, and enhance customer satisfaction..
      - ** Supply Chain Optimization**: Conducted advanced analytics and machine learning models to streamline supply chain processes, saving 15% in logistics costs.
      - ** Outcomes: Simuilations with Pro-model differente scenaries for increase Fillrate, OTD, Throughput, Less traveling
@@ -56,6 +57,7 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
      - ** Increase Deliveries: Synchronization Mfg. vs market increase demand
      - ** Demand Forecasting and Planning: Ingestion historical data and market trends to predict future demand more accurately, enabling better planning and synchronization of manufacturing and delivery schedules.
      - ** Transportation Optimization: Optimize transportation routes and schedules with TMS to ensure timely delivery of products in all domestic market, reducing lead times and improving customer satisfaction.
+  - Libraries used: CPLEX, scikit-learn, TensorFlow.
 
 
 
