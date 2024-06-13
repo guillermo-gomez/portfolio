@@ -2,7 +2,7 @@
 
 ## Perfil Profesional
 
-Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. | Lean Champion Consultant specialized in Supply Chain with over 12 years of experience in enterprise architecture and 9 years in data architecture. I have worked in diverse industrial environments, applying my knowledge in cloud computing, smart health, and smart manufacturing to optimize processes and improve strategic decision-making.
+I am a Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. | Lean Champion Consultant (Lean Six Sigma Certified) specialized in Supply Chain with over 12 years of experience in enterprise architecture, 9 years in data architecture and 18 years of experience as a Supply Chain Architect. I have worked in diverse industrial environments, applying my knowledge in cloud computing, smart health, and smart manufacturing to optimize processes and improve strategic decision-making.
 
 ## Professional Experience
 
