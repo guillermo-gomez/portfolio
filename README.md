@@ -10,21 +10,29 @@ Soy un Sr. Data Scientist | Sr. Enterprise Architect | Operations Director Sr. |
 
 - **Tekshapers, Inc formerly Warrior Tech Solutions ** (Oct 2011 - Today)
   - Roles: Enterprise Architect Director, Azure Data Architect Sr., Supply Chain Architect Sr, MLOps Architect Sr.
-  - Key Projects: Warehouse optimization with AGV, PTL, PTS, and computer vision in ERP systems
+  - Key Projects: Warehouse optimization with AGV, PTL, PTS, and computer vision in ERP systems 
     - **Technologies Used**
     - **Machine Learning**: Implemented computer vision algorithms for real-time inventory tracking and anomaly detection.
     - **Optimization Tools**: Utilized CPLEX and Google OR-Tools for optimizing routing and scheduling tasks.
     - **Programming Languages**: Python, C++, MATLAB.
-
+      
+  - Key Projects: Financial Services
+    - **Technologies Used**
+    - **Machine Learning**: Machine Learning algorithms such as Random Forest, Logistic Regression, or Gradient Boosting Machines (GBM).
+    - **Risk Analysis: Statistical analysis and modeling, Monte Carlo simulations for risk assessment.
+    - **Purchase/Churn Prediction: Machine Learning algorithms like Logistic Regression, Decision Trees, or Neural Networks, Customer segmentation techniques.
+    - **Marketing Campaign Personalization: Customer segmentation based on demographics, behavior, or transaction history, A/B testing for campaign optimization.
+    - **Programming Languages**: R, Python,.
 
 - **Sali Consultores | Corporativo Palermo (Holding)** (May 2011 - Sept 2021)
   - Roles: Enterprise Architect Director, Azure Data Architect, Supply Chain Architect, MLOps Architect
-  - Key Projects: Warehouse optimization with AGV, PTL, PTS, and computer vision in ERP systems
-    - ** SAP S/4 Hanna
-    - ** Oracle Net Suite.
-    - ** MS Dynamic NAV
-    - ** Warehouse Optimization**: Developed AGV and PTL systems integrated with SAP S/4 Hanna, leading to a 20% increase in operational efficiency.
-    - ** Data Lake vs Data Warehouse Solutions**: Designed and implemented hybrid data storage solutions, optimizing data retrieval times by 30%.
+  - Key Projects: Warehouse Predictive Maintenance in ERP systems, Demand Forecasting, Stock Optimization, Defective Product Detection
+    - **Technologies Used**
+    - ** Predictive Maintenance: IoT (Internet of Things) sensors for real-time monitoring of equipment.
+    - ** MS Dynamic NAV Demand Forecasting: Time series forecasting models such as ARIMA, Exponential Smoothing, or Prophet.
+    - ** Warehouse Optimization**: Developed layout and picking route optimization with  Manhattan distance or Hamiltonian Path integrated with ERP MS Dynamic NAV, Improving throughput 30% in operational efficiency.
+    - ** Stock Optimization: Demand forecasting models to predict future demand, Just-in-Time (JIT) inventory management principles, upply chain visibility tools for tracking inventory in real-time.
+    - ** Defective Product Detection: Computer vision technologies for visual inspection of products, Quality control software for analyzing product defects, Integration with manufacturing systems for real-time defect detection.
 
 
 - **AITESYS (Artificial Intelligence Technologies System)** (Jun 2011 - Nov 2021)
